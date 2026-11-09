@@ -15,11 +15,10 @@
     "mz:is_current": 0,
     "src:geom": "geoplanet",
     "wof:belongsto": [
-      404442221,
       101750547,
       404227469,
       85787561,
-      85684213,
+      1360698971,
       102191581,
       85633159
     ],
@@ -34,12 +33,11 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "localadmin_id": 404442221,
+        "county_id": 1360698971,
         "locality_id": 101750547,
         "macroregion_id": 404227469,
         "neighbourhood_id": 85787561,
-        "postalcode_id": 437568599,
-        "region_id": 85684213
+        "postalcode_id": 437568599
       }
     ],
     "wof:id": 437568599,
