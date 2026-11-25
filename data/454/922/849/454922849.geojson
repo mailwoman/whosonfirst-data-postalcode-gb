@@ -25,7 +25,6 @@
       136253055,
       1864208117,
       1880762727,
-      1360756083,
       404227469,
       1880761993
     ],
@@ -40,7 +39,6 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "locality_id": 1360756083,
         "macrocounty_id": 1880761993,
         "macroregion_id": 404227469,
         "postalcode_id": 454922849
@@ -56,7 +54,7 @@
     "wof:id": 454922849,
     "wof:lastmodified": 1763548423,
     "wof:name": "KT22 8TQ",
-    "wof:parent_id": 1360756083,
+    "wof:parent_id": -1,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

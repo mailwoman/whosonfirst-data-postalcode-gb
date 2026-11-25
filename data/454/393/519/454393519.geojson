@@ -25,7 +25,7 @@
       136253055,
       1864206763,
       1360699055,
-      1360753711,
+      1360755381,
       404227469,
       1880762117
     ],
@@ -41,7 +41,7 @@
         "continent_id": 102191581,
         "country_id": 85633159,
         "county_id": 1360699055,
-        "locality_id": 1360753711,
+        "locality_id": 1360755381,
         "macrocounty_id": 1880762117,
         "macroregion_id": 404227469,
         "postalcode_id": 454393519
@@ -57,7 +57,7 @@
     "wof:id": 454393519,
     "wof:lastmodified": 1763548457,
     "wof:name": "DL14 6TF",
-    "wof:parent_id": 1360753711,
+    "wof:parent_id": 1360755381,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

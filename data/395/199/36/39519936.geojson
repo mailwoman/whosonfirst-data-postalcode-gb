@@ -27,7 +27,6 @@
       136253055,
       1864208119,
       1880762727,
-      1360756083,
       404227469,
       1880761993
     ],
@@ -39,7 +38,6 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "locality_id": 1360756083,
         "macrocounty_id": 1880761993,
         "macroregion_id": 404227469,
         "postalcode_id": 39519936
@@ -55,7 +53,7 @@
     "wof:id": 39519936,
     "wof:lastmodified": 1763548384,
     "wof:name": "KT23 4YR",
-    "wof:parent_id": 1360756083,
+    "wof:parent_id": -1,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

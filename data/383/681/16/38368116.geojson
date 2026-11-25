@@ -27,7 +27,6 @@
       136253055,
       1864206479,
       1880762705,
-      1360755123,
       404227469,
       1880762057
     ],
@@ -39,7 +38,6 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "locality_id": 1360755123,
         "macrocounty_id": 1880762057,
         "macroregion_id": 404227469,
         "postalcode_id": 38368116
@@ -55,7 +53,7 @@
     "wof:id": 38368116,
     "wof:lastmodified": 1736288990,
     "wof:name": "CT5 9DH",
-    "wof:parent_id": 1360755123,
+    "wof:parent_id": -1,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

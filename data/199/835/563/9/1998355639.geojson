@@ -23,7 +23,6 @@
       102191581,
       85633159,
       1880762705,
-      1360755123,
       404227469,
       1880762057,
       136253055,
@@ -37,7 +36,6 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "locality_id": 1360755123,
         "macrocounty_id": 1880762057,
         "macroregion_id": 404227469,
         "postalcode_id": 1998355639
@@ -53,7 +51,7 @@
     "wof:id": 1998355639,
     "wof:lastmodified": 1763549532,
     "wof:name": "CT5 3FX",
-    "wof:parent_id": 1360755123,
+    "wof:parent_id": -1,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
